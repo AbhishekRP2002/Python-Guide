@@ -1,3 +1,7 @@
+# format(): format method formats the specifiedvalue(s) and insert them inside the string's placeholder.the placeholder is defined using curly brackets: {}.
+
+# {} indicate karta hai ki run time pe value add hona wala hai inside the placeholder
+
 line = "My name is {} and I am {} years old".format("Gaurav", 21)
 print(line)
 
